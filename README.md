@@ -1,0 +1,2 @@
+# nps-loongarch64
+ 
